@@ -1,6 +1,6 @@
 # Phel - CLI
 
-Getting started blank template for [Phel](https://phel-lang.org/) lang.
+Getting started CLI template for [Phel](https://phel-lang.org/) lang.
 
 This template creates a namespace called `app` for storing your application logic in `src/` directory, and `app\tests` in `tests/` directory for storing your application tests.
 
