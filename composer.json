@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4",
-        "phel-lang/phel-lang": "dev-master"
+        "phel-lang/phel-lang": "^0.2"
     },
     "config": {
         "optimize-autoloader": true,
