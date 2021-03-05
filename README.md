@@ -1,4 +1,4 @@
-# Phel - Blank Template
+# Phel - CLI
 
 Getting started blank template for [Phel](https://phel-lang.org/) lang.
 
@@ -11,7 +11,7 @@ This template creates a namespace called `app` for storing your application logi
 If your computer already has PHP and Composer installed, you may create a new Phel project by using Composer directly. After the application has been created, you may start the Phel application using the Phel CLI's `run` command:
 
 ```bash
-composer create-project mabasic/phel-blank-template example-app dev-master
+composer create-project mabasic/phel-cli example-app dev-master
 
 cd example-app
 
