@@ -4,14 +4,14 @@ Getting started blank template for [Phel](https://phel-lang.org/) lang.
 
 This template creates a namespace called `app` for storing your application logic in `src/` directory, and `app\tests` in `tests/` directory for storing your application tests.
 
-**Requirement: PHP 7.4.**
+**Requirement: PHP 7.4 or 8.0**
 
 ## Installation Via Composer
 
 If your computer already has PHP and Composer installed, you may create a new Phel project by using Composer directly. After the application has been created, you may start the Phel application using the Phel CLI's `run` command:
 
 ```bash
-composer create-project mabasic/phel-basic-template example-app
+composer create-project mabasic/phel-blank-template example-app dev-master
 
 cd example-app
 
